@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+With ${1:object}
+	.$0
+End With
+]]></content>
+	<tabTrigger>with</tabTrigger>
+	<scope>source.vbs</scope>
+	<description>With statement</description>
+</snippet>
